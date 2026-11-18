@@ -1,0 +1,17 @@
+# Sesion 11: brillo 16:9 frente a 32:9 (cinematica del motor sin saltar, capturas fijas)
+ANCHOR chartextures.tfc
+5 START 300
+9 A 300
+13 A 300
+17 A 300
+21 A 300
+25 A 300
+29 A 300
+33 A 300
+ANCHOR sp_00_museum_lighting
+15 DUMP
+25 DUMP
+35 DUMP
+45 DUMP
+55 DUMP
+65 DUMP

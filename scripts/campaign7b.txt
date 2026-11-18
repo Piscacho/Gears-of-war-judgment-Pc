@@ -1,0 +1,29 @@
+# Sesion 7: campana, esperar a que acabe la cinematica y moverse
+ANCHOR chartextures.tfc
+5 START 300
+9 A 300
+13 A 300
+17 A 300
+21 A 300
+25 A 300
+29 A 300
+33 A 300
+37 A 300
+41 A 300
+45 A 300
+ANCHOR sp_00_museum_lighting
+110 DUMP
+130 DUMP
+150 DUMP
+170 DUMP
+185 DUMP
+190 LUP 5000
+193 DUMP
+196 DUMP
+198 RLEFT 3000
+200 DUMP
+203 DUMP
+206 LLEFT 4000
+208 DUMP
+211 DUMP
+215 DUMP

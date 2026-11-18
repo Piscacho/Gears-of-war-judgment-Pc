@@ -1,0 +1,38 @@
+# ---- Archivos del juego: NUNCA se suben ----
+*.iso
+*.xex
+*.xexp
+xex/
+basefile.bin
+tu_basefile.bin
+dlc/
+tu/
+# Codigo generado a partir del ejecutable del juego (cada uno lo genera desde su ISO)
+ppc/
+ppc_viejos/
+*.bin
+*.cso
+*.raw
+
+# ---- Herramientas externas, referencias y salidas de compilacion ----
+XenonRecomp/
+ref/
+runtime_ng2_orig/
+project/build/
+project/build_*/
+release_staging/
+dist/
+tools/lzxdelta.exe
+
+# ---- Pruebas, capturas y registros ----
+run/
+run2/
+logs/
+*.png
+*.jpg
+*.bmp
+*.wav
+*.log
+*.zip
+*.old
+__pycache__/

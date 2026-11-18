@@ -1,0 +1,30 @@
+# Guion con anclas (sesion 3): titulo -> menu -> campana -> Judgment -> New -> Normal
+ANCHOR gearstart_skelmeshes
+12 START 300
+18 A 300
+22 A 300
+26 A 300
+30 A 300
+34 A 300
+38 A 300
+ANCHOR gud_cogbairdg_sf
+10 DUMP
+16 DUMP
+22 DUMP
+28 DUMP
+34 DUMP
+40 DUMP
+46 DUMP
+52 DUMP
+58 DUMP
+64 DUMP
+70 DUMP
+76 DUMP
+82 DUMP
+88 DUMP
+94 DUMP
+100 DUMP
+106 DUMP
+112 DUMP
+118 DUMP
+124 DUMP

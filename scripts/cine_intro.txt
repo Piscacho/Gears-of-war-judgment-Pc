@@ -1,0 +1,11 @@
+# Sesion 11: empezar campana y dejar correr la cinematica de introduccion (Cine_010)
+ANCHOR chartextures.tfc
+5 START 300
+9 A 300
+13 A 300
+17 A 300
+21 A 300
+25 A 300
+29 A 300
+33 A 300
+37 A 300

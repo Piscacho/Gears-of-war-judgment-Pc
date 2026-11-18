@@ -1,0 +1,28 @@
+# Sesion 7: campana completa (guardados nuevos): cinematica, control y avance por Old Town con disparos
+ANCHOR chartextures.tfc
+5 START 300
+9 A 300
+13 A 300
+17 A 300
+21 A 300
+25 A 300
+29 A 300
+33 A 300
+37 A 300
+41 A 300
+45 A 300
+ANCHOR sp_00_museum_lighting
+150 DUMP
+170 DUMP
+180 LUP 8000
+184 DUMP
+189 DUMP
+190 RRIGHT 1500
+193 DUMP
+195 LUP 8000
+199 DUMP
+204 DUMP
+206 LT 3000
+207 RT 1500
+208 DUMP
+212 DUMP

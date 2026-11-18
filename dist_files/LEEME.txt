@@ -1,0 +1,52 @@
+Gears of War: Judgment - recompilado para PC (Windows 10/11, DirectX 12)
+=========================================================================
+
+Necesitas tu propio ISO de Gears of War: Judgment para Xbox 360 (titulo 4D530A26).
+Este paquete NO incluye ningun archivo del juego.
+
+Primer arranque
+---------------
+1. Ejecuta GOWJ.exe. Se abre el launcher.
+2. En AVANZADO elige el ISO del juego y pulsa JUGAR.
+3. La ruta se guarda en gowj.ini. Las partidas se guardan en la carpeta "userdata".
+
+Controles
+---------
+Mando de Xbox (XInput) o DualSense/DualShock 4: como en la consola.
+Teclado y raton (con la ventana del juego activa; clic en la ventana captura el raton, Alt lo suelta):
+  WASD               moverse
+  Raton (o IJKL)     camara
+  Clic izquierdo     disparar (RT)
+  Clic derecho       apuntar (LT)
+  Espacio / Mayus    cubrirse, correr (A)
+  E                  usar, recoger (X)
+  R                  recargar (RB)
+  Q / rueda          cambiar de arma (Y)
+  F                  golpe (B)
+  G                  granada (LB)
+  C / X              L3 / R3
+  1-4 / flechas      cruceta
+  Esc / Intro        pausa (START)
+  Tab                BACK
+  Retroceso          volver en los menus
+
+Teclas
+------
+  F11 o Alt+Intro    pantalla completa
+  F3                 contador de FPS
+  F12                captura (shot_9xx.bmp)
+  F9                 registra en gowj.log los dos cuadros siguientes con todo el detalle (para informar
+                     de un fallo grafico: apunta con la mira a lo que se ve mal, pulsa F9 y luego F12)
+
+Opciones
+--------
+El launcher tiene graficos (panoramico 21:9 / 32:9, resolucion interna x2 / x3, filtrado, nitidez, brillo,
+desenfoque de movimiento), controles, audio, idioma y enlace de sistema (LAN). Todo se guarda en gowj.ini.
+
+Problemas conocidos
+-------------------
+- La primera vez que aparece cada efecto puede faltar un instante mientras se compila su shader
+  (luego queda en "shadercache" y ya no pasa).
+- Algunas calcomanias (manchas en paredes, cristales rotos en el suelo) pueden verse negras.
+- Al entrar en una zona nueva hay un tiron breve en el primer cuadro.
+- El registro de la ultima partida esta en gowj.log (util para informar de fallos).

@@ -1,0 +1,21 @@
+# Sesion 9: invitado: buscar el grupo y unirse; despues esperar (A de vez en cuando para "listo")
+ANCHOR chartextures.tfc
+5 START 300
+9 A 300
+13 A 300
+17 BACK 150
+20 UP 150
+22 A 150
+36 X 150
+44 X 150
+50 A 150
+64 DUMP
+80 DUMP
+90 DUMP
+100 DUMP
+120 DUMP
+135 DUMP
+150 DUMP
+165 DUMP
+180 DUMP
+190 DUMP

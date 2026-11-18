@@ -1,0 +1,52 @@
+# XenonRecomp - Gears of War: Judgment (X360, 4D530A26, disco v3) - BORRADOR de la sesion 1
+[main]
+file_path = "../xex/default.xex"
+out_directory_path = "../ppc"
+switch_table_file_path = "gowj_switch_tables_all.toml"
+
+# Optimizaciones desactivadas hasta tener una recompilacion que funcione
+skip_lr = false
+skip_msr = false
+ctr_as_local = false
+xer_as_local = false
+reserved_as_local = false
+cr_as_local = false
+non_argument_as_local = false
+non_volatile_as_local = false
+
+restgprlr_14_address = 0x82D9F3B0
+savegprlr_14_address = 0x82D9F360
+restfpr_14_address   = 0x82D9FC6C
+savefpr_14_address   = 0x82D9FC20
+restvmx_14_address   = 0x82D9FFB8
+savevmx_14_address   = 0x82D9FD20
+restvmx_64_address   = 0x82DA004C
+savevmx_64_address   = 0x82D9FDB4
+
+longjmp_address = 0x82DA1ED0
+setjmp_address  = 0x82DA21F0
+
+# Funciones sin .pdata (sin comentarios dentro del array: XenonRecomp se cae). Sesion 2: completar con make_functions.
+functions = [
+{ address = 0x823B8B58, size = 0xFC },
+{ address = 0x8242DDE0, size = 0x160 },
+{ address = 0x82719450, size = 0x140 },
+{ address = 0x82991868, size = 0xE0 },
+{ address = 0x829B2060, size = 0x25C },
+{ address = 0x82A19C18, size = 0x184 },
+{ address = 0x82D9D4FC, size = 0x28 },
+{ address = 0x82D9D930, size = 0xC },
+{ address = 0x82D9F940, size = 0xA0 },
+{ address = 0x82DA1BE8, size = 0xC },
+{ address = 0x82DA21F0, size = 0x2CC },
+{ address = 0x82DA8F78, size = 0x18 },
+{ address = 0x82DABBE4, size = 0x18 },
+{ address = 0x82E01E78, size = 0x270 },
+{ address = 0x82E37E20, size = 0x260 },
+{ address = 0x82E38080, size = 0x20 },
+{ address = 0x82E380A0, size = 0x30 },
+{ address = 0x82E380D0, size = 0x28 },
+{ address = 0x82E380F8, size = 0x24 },
+{ address = 0x82E38120, size = 0x1C },
+{ address = 0x82EDFE58, size = 0x110 }
+]

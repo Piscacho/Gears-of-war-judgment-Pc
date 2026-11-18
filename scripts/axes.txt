@@ -1,0 +1,27 @@
+# Sesion 3: titulo (START) -> ancla PlayerStorage (perfil leido tras START) -> menus con A -> nivel
+ANCHOR chartextures.tfc
+5 START 300
+ANCHOR playerstorage
+6 A 300
+10 A 300
+14 A 300
+18 A 300
+22 A 300
+26 A 300
+ANCHOR gud_cogbairdg_sf
+30 DUMP
+40 DUMP
+42 LT 4000
+44 DUMP
+50 RRIGHT 4000
+52 DUMP
+54 DUMP
+58 RUP 3000
+60 DUMP
+64 LUP 6000
+67 DUMP
+69 DUMP
+72 LRIGHT 3000
+74 DUMP
+80 DUMP
+85 DUMP

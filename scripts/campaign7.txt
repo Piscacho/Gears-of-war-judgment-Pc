@@ -1,0 +1,29 @@
+# Sesion 7: campana con guardados nuevos (fresh5) + ancla al cargar el capitulo (SP_00_Museum_Lighting) + capturas y movimiento
+ANCHOR chartextures.tfc
+5 START 300
+9 A 300
+13 A 300
+17 A 300
+21 A 300
+25 A 300
+29 A 300
+33 A 300
+37 A 300
+41 A 300
+45 A 300
+ANCHOR sp_00_museum_lighting
+20 DUMP
+35 DUMP
+50 DUMP
+60 A 200
+65 DUMP
+70 LUP 6000
+73 DUMP
+76 DUMP
+78 RLEFT 3000
+80 DUMP
+83 DUMP
+86 LLEFT 4000
+88 DUMP
+91 DUMP
+95 DUMP

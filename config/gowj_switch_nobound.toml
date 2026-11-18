@@ -1,0 +1,54 @@
+[[switch]]
+base = 0x830B1358
+r = 31
+default = 0x0
+labels = [
+    0x830B139C,
+    0x830B13D8,
+    0x830B15C8,
+    0x830B17B8,
+    0x830B19A8,
+    0x830B1B98,
+    0x830B1D88,
+    0x830B1F78,
+    0x830B2168,
+    0x830B23A4,
+    0x830B25E0,
+]
+
+[[switch]]
+base = 0x830B2C9C
+r = 31
+default = 0x0
+labels = [
+    0x830B2CE0,
+    0x830B2D30,
+    0x830B2EF0,
+    0x830B30B0,
+    0x830B3270,
+    0x830B3430,
+    0x830B35F0,
+    0x830B37B0,
+    0x830B3970,
+    0x830B3B7C,
+    0x830B3D88,
+]
+
+[[switch]]
+base = 0x830AFF04
+r = 7
+default = 0x0
+labels = [
+    0x830AFF48,
+    0x830AFF64,
+    0x830B00E4,
+    0x830B0264,
+    0x830B03E4,
+    0x830B0564,
+    0x830B06E4,
+    0x830B0864,
+    0x830B09E4,
+    0x830B0BB0,
+    0x830B0D7C,
+]
+

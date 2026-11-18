@@ -1,0 +1,4 @@
+ANCHOR chartextures.tfc
+6 DUMP
+20 DUMP
+40 DUMP

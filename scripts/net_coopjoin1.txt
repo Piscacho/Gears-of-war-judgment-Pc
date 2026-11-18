@@ -1,0 +1,29 @@
+# Sesion 10: invitado de la campana cooperativa: unirse y probar botones para "Tomar el control"
+ANCHOR chartextures.tfc
+5 START 300
+9 A 300
+13 A 300
+17 BACK 150
+20 UP 150
+22 A 150
+50 X 150
+58 A 150
+66 X 150
+72 A 150
+145 DUMP
+150 A 200
+156 DUMP
+160 X 200
+166 DUMP
+170 Y 200
+176 DUMP
+180 BACK 200
+186 DUMP
+190 RB 200
+196 DUMP
+200 START 200
+206 DUMP
+210 LUP 3000
+214 DUMP
+225 DUMP
+240 DUMP

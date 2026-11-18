@@ -1,0 +1,14 @@
+# Sesion 9: menus con el online activado (buscar Enlace de sistema)
+ANCHOR chartextures.tfc
+5 START 300
+9 A 300
+13 A 300
+20 DUMP
+22 DOWN 100
+24 DUMP
+26 A 200
+29 DUMP
+30 DOWN 100
+31 DUMP
+32 DOWN 100
+33 DUMP

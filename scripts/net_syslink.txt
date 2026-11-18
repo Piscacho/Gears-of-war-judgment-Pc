@@ -1,0 +1,15 @@
+# Sesion 9: grupo de enlace de sistema (BACK > System Link) y luego Survival
+ANCHOR chartextures.tfc
+5 START 300
+9 A 300
+13 A 300
+17 BACK 150
+20 UP 150
+21 DUMP
+22 A 150
+25 DUMP
+28 DUMP
+31 DOWN 150
+33 A 150
+36 DUMP
+39 DUMP

@@ -1,0 +1,24 @@
+# Sesion 9: anfitrion: grupo System Link, CREATE PARTY, esperar al invitado y lanzar Survival
+ANCHOR chartextures.tfc
+5 START 300
+9 A 300
+13 A 300
+17 BACK 150
+20 UP 150
+22 A 150
+28 Y 150
+58 DOWN 150
+61 A 150
+64 DUMP
+67 A 150
+71 DUMP
+75 A 150
+80 DUMP
+85 A 150
+90 DUMP
+100 DUMP
+110 A 150
+120 DUMP
+135 DUMP
+150 DUMP
+165 DUMP

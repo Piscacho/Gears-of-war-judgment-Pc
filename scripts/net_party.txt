@@ -1,0 +1,15 @@
+# Sesion 9: cambiar el tipo de grupo (BACK) a enlace de sistema
+ANCHOR chartextures.tfc
+5 START 300
+9 A 300
+13 A 300
+17 BACK 150
+19 DUMP
+21 DUMP
+23 DOWN 150
+24 DUMP
+25 DOWN 150
+26 DUMP
+28 A 150
+31 DUMP
+34 DUMP

@@ -1,0 +1,4 @@
+# Sesion 10: capturas de la pantalla de titulo
+ANCHOR chartextures.tfc
+4 DUMP
+8 DUMP

@@ -1,0 +1,30 @@
+# Sesion 10: anfitrion con margenes amplios: System Link, crear grupo (Y repetida), esperar, Survival > Private > empezar
+ANCHOR chartextures.tfc
+5 START 300
+9 A 300
+13 A 300
+17 BACK 150
+20 UP 150
+22 A 150
+30 Y 150
+36 Y 150
+42 Y 150
+48 DUMP
+100 DUMP
+102 DOWN 150
+105 A 150
+108 DOWN 150
+110 A 150
+114 DUMP
+116 A 150
+120 A 150
+126 A 150
+130 A 150
+134 DUMP
+138 START 150
+145 DUMP
+160 DUMP
+180 DUMP
+200 DUMP
+220 DUMP
+240 DUMP

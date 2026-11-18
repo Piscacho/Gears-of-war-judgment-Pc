@@ -1,0 +1,16 @@
+# Sesion 9: invitado del enlace de sistema: grupo System Link, buscar (X = refrescar) y unirse (A)
+ANCHOR chartextures.tfc
+5 START 300
+9 A 300
+13 A 300
+17 BACK 150
+20 UP 150
+22 A 150
+30 DUMP
+36 X 150
+40 DUMP
+44 X 150
+48 DUMP
+50 A 150
+55 DUMP
+65 DUMP

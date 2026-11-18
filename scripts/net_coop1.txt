@@ -1,0 +1,24 @@
+# Sesion 10: anfitrion, exploracion de la campana cooperativa por enlace de sistema
+ANCHOR chartextures.tfc
+5 START 300
+9 A 300
+13 A 300
+17 BACK 150
+20 UP 150
+22 A 150
+30 Y 150
+36 Y 150
+42 Y 150
+48 DUMP
+96 DUMP
+100 A 150
+106 DUMP
+110 A 150
+116 DUMP
+120 A 150
+126 DUMP
+130 A 150
+136 DUMP
+146 DUMP
+160 DUMP
+180 DUMP

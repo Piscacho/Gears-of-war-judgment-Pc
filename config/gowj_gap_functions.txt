@@ -1,0 +1,11 @@
+functions = [
+    { address = 0x823B8B58, size = 0xFC },
+    { address = 0x8242DDE0, size = 0x160 },
+    { address = 0x82719450, size = 0x140 },
+    { address = 0x82991868, size = 0xE0 },
+    { address = 0x829B2060, size = 0x25C },
+    { address = 0x82A19C18, size = 0x184 },
+    { address = 0x82E01E78, size = 0x270 },
+    { address = 0x82E37E20, size = 0x31C },
+    { address = 0x82EDFE58, size = 0x110 },
+]

@@ -1,0 +1,22 @@
+# Sesion 10: invitado con margenes amplios: System Link, refrescar y unirse varias veces
+ANCHOR chartextures.tfc
+5 START 300
+9 A 300
+13 A 300
+17 BACK 150
+20 UP 150
+22 A 150
+50 X 150
+56 DUMP
+58 A 150
+66 X 150
+72 A 150
+78 DUMP
+80 B 150
+100 DUMP
+145 DUMP
+160 DUMP
+180 DUMP
+200 DUMP
+220 DUMP
+240 DUMP

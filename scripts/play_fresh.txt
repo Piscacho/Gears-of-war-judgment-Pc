@@ -1,0 +1,18 @@
+# Sesion 6: con guardados nuevos. Titulo -> START -> A (I'm new) -> Campaign -> Judgment -> New -> Normal
+ANCHOR chartextures.tfc
+5 START 300
+9 A 300
+13 A 300
+17 A 300
+21 A 300
+25 A 300
+29 A 300
+ANCHOR sp_00_museum
+20 DUMP
+30 DUMP
+40 DUMP
+42 LUP 5000
+48 DUMP
+50 RLEFT 3000
+54 DUMP
+60 DUMP
