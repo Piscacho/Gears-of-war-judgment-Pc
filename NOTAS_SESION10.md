@@ -404,3 +404,12 @@ control. Diagnóstico nuevo: `GOWJ_PIXELPROBE` registra también el GS de cada d
   para la partida panorámica).
 - Para comparar entre pasadas: restaurar `run\userdata` desde `run\userdata_snap` antes de cada una (si no, cada prueba sigue en otro sitio).
 - Launcher: "Bordes en vídeos y menús" pasa a Avanzado (en Gráficos no cabía con "Resolución interna").
+
+## Publicación (2026-11-18)
+
+- Repositorio público https://github.com/Piscacho/Gears-of-war-judgment-Pc (como el de Ninja Gaiden II): código propio, notas,
+  `LICENSE` (MIT), `THIRD-PARTY-NOTICES.txt`, `xenonrecomp_gowj.diff` (sobre XenonRecomp ddd128b) y `dist_files/` (LEEME, gowj.ini
+  limpio). Fuera (`.gitignore`): ISO/XEX/TU/DLC, `ppc/`, XenonRecomp, `run/`, `logs/`, capturas e imágenes del launcher (SteamGridDB).
+  Commits con la dirección noreply de GitHub (no el correo personal).
+- Release v1.0.0: `tools/make_release.ps1 -Ver <v> [-NoBuild] [-Out <carpeta>]` crea el zip (GOWJ.exe, DLL de FFmpeg, ini, LEEME,
+  licencias) y su SHA-256; se sube con `gh release create`.
